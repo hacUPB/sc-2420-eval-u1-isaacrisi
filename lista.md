@@ -1,5 +1,5 @@
 
-## # Componentes del Hardware y el Software
+##  Componentes del Hardware y el Software
 
 ## Hardware
 
