@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Componentes del Hardware y el Software
+=======
+##  Componentes del Hardware y el Software
+>>>>>>> 28f84af3ae855f8d978ee0c3d60c2c6f2e591c18
 
 ## Hardware
 
