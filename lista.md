@@ -1,5 +1,4 @@
-
-## # Componentes del Hardware y el Software
+# Componentes del Hardware y el Software
 
 ## Hardware
 
@@ -21,17 +20,26 @@
 6. **Fuente de Alimentación**
    - Suministra energía a todos los componentes de la computadora.
 
-7. **Dispositivos de Entrada**
-   - Teclado, ratón, escáner, micrófono.
+7. **Periféricos**
 
-8. **Dispositivos de Salida**
-   - Monitor, impresora, altavoces.
+    - **Dispositivos de Entrada**
+      - Teclado
+      - Ratón
+      - Escáner
+      - Micrófono
+      - Cámaras web
+      - Pantallas táctiles
 
-9. **Unidades de Almacenamiento Externo**
-   - Discos duros externos, memorias USB, tarjetas SD.
+    - **Dispositivos de Salida**
+      - Monitor
+      - Impresora
+      - Altavoces
 
-10. **Periféricos**
-    - Cámaras web, unidades ópticas (CD/DVD/Blu-ray).
+    - **Dispositivos de Almacenamiento Externo**
+      - Discos duros externos
+      - Memorias USB
+      - Tarjetas SD
+      - Unidades ópticas (CD/DVD/Blu-ray)
 
 ## Software
 
