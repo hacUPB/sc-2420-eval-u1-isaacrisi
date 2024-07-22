@@ -10,11 +10,11 @@
 
 ## Arquitectura de una Computadora
 
-# Definición
+### Definición
 
 La arquitectura de una computadora se refiere al diseño conceptual y la estructura operacional de un sistema de computación. Esto incluye la organización y la interconexión de los componentes de hardware (como la CPU, memoria, y dispositivos de entrada/salida), así como la forma en que estos interactúan entre sí y con el software. La arquitectura de una computadora define cómo se procesan las instrucciones y los datos, cómo se gestionan los recursos y cómo se optimiza el rendimiento del sistema.
 
-# Variantes de Arquitecturas
+### Variantes de Arquitecturas
 
 1. **Arquitectura de Von Neumann**
    - Es la arquitectura clásica donde la CPU, la memoria y los dispositivos de entrada/salida están conectados a través de un bus común. Utiliza una sola memoria para almacenar tanto las instrucciones como los datos.
