@@ -46,6 +46,5 @@ La arquitectura de una computadora se refiere al diseño conceptual y la estruct
 10. **Arquitectura de Computación en la Nube**
     - Permite el acceso remoto a recursos informáticos y almacenamiento a través de internet, facilitando la escalabilidad y la flexibilidad en la gestión de datos y aplicaciones.
 
-Si necesitas más detalles sobre alguna variante en particular, ¡hazmelo saber!
 
 
