@@ -8,6 +8,10 @@
 
 https://lucid.app/lucidspark/b0a724c1-b334-4735-b2bd-ebaa8cd6e4d4/edit?viewport_loc=-7994%2C-1759%2C18202%2C9096%2C0_0&invitationId=inv_118d1c9d-a49f-4f29-9a4d-1585271e8889 
 
+## Video
+
+https://drive.google.com/file/d/10vWz98GxGiCscZldgYyOCU5plNtV-GhG/view?usp=drive_link 
+
 ## Arquitectura de una Computadora
 
 ### Definición
