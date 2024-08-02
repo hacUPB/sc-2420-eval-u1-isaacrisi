@@ -13,7 +13,12 @@ M=D
 M=D
 D=D+1
 M=D+M
+@16
+M=D
+D=D-1
 @LOOP
+D;JGT
+//el resultado temporalmente está en el ram 17
 
 
 

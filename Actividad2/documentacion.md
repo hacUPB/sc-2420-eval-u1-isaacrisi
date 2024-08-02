@@ -49,6 +49,8 @@ primero se plantea en un lenguaje mas avanzado
 
 ya logre hacer que se vallan sumando los numeros desde el a 
 me falta hacer que se empiece a repetir el bucle 
+voy a usar el numero b para determinar cuando se acaba 
+
 
 
 
