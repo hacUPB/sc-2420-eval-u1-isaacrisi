@@ -1,10 +1,7 @@
-
 @0        // Dirección del primer número (multiplicando)
 D=M        // D = número1
-@2       // Usamos la dirección 18 para almacenar el resultado
+@2        // Usamos la dirección 2 para almacenar el resultado
 M=0        // Inicializa el resultado en 0
-@18
-M=D
 
 @1        // Dirección del segundo número (multiplicador)
 D=M        // D = número2
@@ -17,11 +14,11 @@ D=M        // D = contador
 @END      // Si el contador es 0, saltar al final
 D;JEQ     
 
-@18       // Dirección del resultado
+@2        // Dirección del resultado
 D=M        // D = resultado
 @0        // Dirección del primer número
 D=D+M      // D = resultado + número1
-@18       // Dirección del resultado
+@2        // Dirección del resultado
 M=D        // Guarda el nuevo resultado
 
 @19       // Dirección del contador
@@ -34,7 +31,4 @@ M=D        // Guarda el nuevo contador
 0;JMP
 
 (END)
-@18       // Dirección del resultado
-D=M        // D = resultado
 @2        // Dirección donde se guardará el resultado final
-M=D        // Guarda el resultado final en la dirección 2

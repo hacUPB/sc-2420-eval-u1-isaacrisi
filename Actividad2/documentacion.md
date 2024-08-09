@@ -2,6 +2,15 @@
 
 estoy teniendo problemas en como se realiza el buble me hace falta visibilizar mejor la forma del bucle para poderlo aplicar bien 
 
+cree otro archivo porque con el archivo actual como que no dimensionaba bien las cosas entonces preferí hacerlo de cero en otro archivo comentando lo que hacia casi que cada linea para ubicarme mejor en lo que estaba haciendo 
+
+vi que estaba sobreescribiendo el valor de la posicion 2 de manera innecesaria y eso me estaba atrofiando el codigo 
+
+me estaba haciendo falta una variable para el contador del bucle y hacerlo en el simulador me ayudo a caer en cuenta de que me faltaba eso 
+
+y ya con todo eso claro pude definir mejor el bucle que era mi mayor problema 
+
+
 ## 2 Problmema: suma de numeros pares hasta N
 
 Esto se realiza con un bucle y se va a programar primero en c# para traducirlo a .asm despues
@@ -51,6 +60,8 @@ ya logre hacer que se vallan sumando los numeros desde el a
 me falta hacer que se empiece a repetir el bucle 
 voy a usar el numero b para determinar cuando se acaba 
 
+
+ya definí el bucle y esta funcionando correctamente solo me falta pulir cuando se escriben el 0 para que me devuelva el valor de 0 y no se ejecute el bucle 
 
 
 
