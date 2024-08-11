@@ -14,7 +14,7 @@
         M=D
 
         
-        D=-1
+        AMD=-1
         @numero
         M=D
 
@@ -31,7 +31,7 @@
         @LOOP
         D;JGT
 
-        @33
+        @32
         D=A
         @SumaBucle
         MD=D
@@ -53,13 +53,13 @@
         @punt
         M=D
 (LOOP4)
-        @32
+        @30
         D=A
         @cont
         M=D
 
         
-        D=-1
+        AMD=-1
         @numero
         M=D
 
@@ -76,7 +76,7 @@
         @LOOP3
         D;JGT
 
-        @33
+        @30
         D=A
         @SumaBucle
         MD=D

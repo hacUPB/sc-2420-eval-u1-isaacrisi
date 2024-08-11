@@ -35,7 +35,10 @@ se logro hacer las x's pero habia un error al intentar asignar a la variable d=-
 
 ![alt text](image-3.png)
 
-lo que creo que esta pasando es que los bucles que tenia de alguna manera con el error se sobreecribia los valores que se debian hacer, por lo que se ve en la ejecucion va como pintando con el primer bucle con lineas dejando un espacion en blanco y ese espacio con el segundo bucle lo rellena dejando solamente el que se ve en la imagen 
+lo que creo que esta pasando es que los bucles que tenia de alguna manera con el error se sobreecribia los valores que se debian hacer, por lo que se ve en la ejecucion va como pintando con el primer bucle con lineas dejando un espacion en blanco y ese espacio con el segundo bucle lo rellena dejando solamente el que se ve en la imagen.
+para obtener el resultado esperado se volvio a la forma que tenia antes, con el objetivo de obtener el resultado que se queria
+
+![alt text](image-4.png)
 
 ## conclusion
 
