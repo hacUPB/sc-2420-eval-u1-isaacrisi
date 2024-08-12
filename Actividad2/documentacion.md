@@ -46,15 +46,17 @@ ya solo falta pasar el resultado a la ram 1
 
 primero se plantea en un lenguaje mas avanzado 
 
-{
+
+
+
     int suma = numero a;
     int tope = numero b;
 
     for (int i = 0; i<=numero b; i++)
     {
         suma = suma + suma + 1;
-    }
-}
+    }   
+
 
 ya logre hacer que se vallan sumando los numeros desde el a 
 me falta hacer que se empiece a repetir el bucle 
@@ -62,6 +64,7 @@ voy a usar el numero b para determinar cuando se acaba
 
 
 ya definí el bucle y esta funcionando correctamente solo me falta pulir cuando se escriben el 0 para que me devuelva el valor de 0 y no se ejecute el bucle 
+
 
 
 
