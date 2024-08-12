@@ -10,6 +10,8 @@ me estaba haciendo falta una variable para el contador del bucle y hacerlo en el
 
 y ya con todo eso claro pude definir mejor el bucle que era mi mayor problema 
 
+**EL ARCHIVO QUE CONTIENE ESTE EJERCICIO ES multiplicacion.asm**
+
 
 ## 2 Problmema: suma de numeros pares hasta N
 
@@ -42,6 +44,8 @@ si estaba ahi el error cambie la forma en que miraba cuanto faltaba para salir d
 
 ya solo falta pasar el resultado a la ram 1
 
+**EL ARCHIVO QUE CONTIENE ESTE EJERCICIO ES sumapares.asm**
+
 ## suma de numeros en un rango 
 
 primero se plantea en un lenguaje mas avanzado 
@@ -64,6 +68,9 @@ voy a usar el numero b para determinar cuando se acaba
 
 
 ya definí el bucle y esta funcionando correctamente solo me falta pulir cuando se escriben el 0 para que me devuelva el valor de 0 y no se ejecute el bucle 
+
+**EL ARCHIVO QUE CONTIENE ESTE EJERCICIO ES sumaRango**
+
 
 
 
