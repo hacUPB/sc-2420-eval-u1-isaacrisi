@@ -72,10 +72,11 @@ ya definí el bucle y esta funcionando correctamente solo me falta pulir cuando 
 **EL ARCHIVO QUE CONTIENE ESTE EJERCICIO ES sumaRango**
 
 ´´´
-main(){
-pruintf ("a");
-}
+    main()
+    {
+        pruintf ("a");
+    }
 
-
+´´´´
 
 
